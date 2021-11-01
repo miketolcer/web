@@ -42,7 +42,19 @@ button {
 
 	
 } 
-img {
+#beach {
 	max-width: 300px;
 	max-height: 300px;
+	padding: 96px;
+}
+#pillbutton {
+	background-color: red;
+	color: black;
+	padding: 10px 20px;
+	text-align: center;
+	display: inline-block;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 16px;
+
 }
