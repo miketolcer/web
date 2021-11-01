@@ -36,3 +36,13 @@ input {
 img {
 	max-width: 300px;
 }
+button {
+	background-color: gold;
+	width: 150px;
+
+	
+} 
+img {
+	max-width: 300px;
+	max-height: 300px;
+}

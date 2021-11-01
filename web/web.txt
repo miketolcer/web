@@ -1,0 +1,14 @@
+How does the internet work?
+    The internet is a large network of computers which communicate all together.
+    Each computer on a network is connected to a router.
+    router makes sure that a message sent from a given computer arrives at the right destination computer.
+    To connect our network to the telephone infrastucture, we need a modem.
+    the modem turns the info from our network into info manageable by the telephone infrastucture and vice versa.
+    Next step to connect the network to an ISP to access other ISPs' routers.
+    
+
+
+    What happens when you click on a link? 
+    I want to browse a website, so I ask the DNS server for the IP address
+    The DNS server gives me the website's IP address
+    now that I know the IP address, I can communicate with the host server and browse the website.
